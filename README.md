@@ -1,8 +1,11 @@
-### Hi there 👋
+
+
+![Image of me](https://github.com/harrybhai123/harrybhai123/blob/master/me.gif?raw=true)
 
 <p align="center"><a href="https://harrybhai123.github.io"><img width="80%" alt="Hello, I'm Hariom Tomar. I do Front-end Web Development!" src="https://media-exp1.licdn.com/dms/image/C4D22AQGD7bQDw15s7Q/feedshare-shrink_800/0/1668579174649?e=1671667200&v=beta&t=g5FNDZcSacCUQnSpf6nfk3K35ztHVK3_K4r83zy8IJI" /></a></p>
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+#  Hi there 👋
+## I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 
 
@@ -34,7 +37,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 ## Get in touch :coffee:
 
 - Your future buddy to discuss Web Development related things and tech in general on [Gmail](hariomtomar25832@gmail.com).
-- Your future life savior :stuck_out_tongue: on [Gamil](hariomtomar25832@gmail.com).
+- Your future life savior :stuck_out_tongue: on [Gmail](hariomtomar25832@gmail.com).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/hariomtomar)
 - And of course GitHub you're already on (Recursion).
 
