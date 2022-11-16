@@ -59,25 +59,13 @@
 
 
 | <a href="https://github.com/harrybhai123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harrybhai123&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hariom Tomar's github stats" /></a> 
-| <a href="https://github.com/harrybhai123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrybhai123&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
+| <a href="https://github.com/harrybhai123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrybhai123&layout=compact&theme=buefy&hide_border=true" /></a>
 
 
-<a href="https://github.com/harrybhai123/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harrybhai123&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/harrybhai123/harrybhai123.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harrybhai123&repo=harrybhai123.github.io&theme=buefy" />
-</a>
 
-<br />
-<br />
 
-<a href="https://codesandbox.io/u/harrybhai123">
-  <img align="right" alt="Hariom Tomar | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/harrybhai123/harrybhai123/master/assets/codesandbox.svg" />
-</a>
+
+
 
 <!--
 **harrybhai123/harrybhai123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
