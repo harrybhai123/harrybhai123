@@ -1,8 +1,5 @@
 
-
-![Image of me](https://github.com/harrybhai123/harrybhai123/blob/master/me.gif?raw=true)
-
-<p align="center"><a href="https://harrybhai123.github.io"><img width="80%" alt="Hello, I'm Hariom Tomar. I do Front-end Web Development!" src="https://media-exp1.licdn.com/dms/image/C4D22AQGD7bQDw15s7Q/feedshare-shrink_800/0/1668579174649?e=1671667200&v=beta&t=g5FNDZcSacCUQnSpf6nfk3K35ztHVK3_K4r83zy8IJI" /></a></p>
+<p align="center"><a href="https://harrybhai123.github.io"><img width="80%" alt="Hello, I'm Hariom Tomar. I do Front-end Web Development!" src="https://static.wixstatic.com/media/fcf9f1_183add7b26954250a69bc0ac13f8ca50~mv2.gif/v1/fill/w_1600%2Ch_900%2Cal_c%2Cq_90/file.jpg" /></a></p>
 
 #  Hi there 👋
 ## I'm a self-taught passionate FrontEnd developer from India 🇮🇳
@@ -41,30 +38,75 @@
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/hariomtomar)
 - And of course GitHub you're already on (Recursion).
 
-**Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a white (hollow) piece.
-
-|   | A | B | C | D | E | F | G | H |
-| - | - | - | - | - | - | - | - | - |
-| 8 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/q.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/k.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png) |
-| 7 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
-| 6 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
-| 5 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) |
-| 4 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
-| 3 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
-| 2 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) |
-| 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) |
-
-#### **WHITE (hollow):** It's your move... to choose _where_ to move...
 
 
-
+<div align="center" style="display:flex; flex-wrap:wrap justify-content:center; align-items: center; width:80%; margin:auto;"> 
  <a href="https://github.com/harrybhai123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harrybhai123&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hariom Tomar's github stats" /></a> 
+</div> 
  <br/>
  <br/>
+ <div align="center" style="display:flex; flex-wrap:wrap justify-content:center; align-items: center; width:80%; margin:auto;"> 
  <a href="https://github.com/harrybhai123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrybhai123&layout=compact&theme=buefy&hide_border=true" /></a>
+  </div> 
 
 
 
+
+# 🏆 GitHub Achievements 🏆
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172940015-d9d072e7-c47d-4ddd-83f6-8e7717a721b8.png">
+    <img src="https://user-images.githubusercontent.com/65187002/172940773-7ef23b63-3356-4634-9e52-34f2676e2854.png">
+  </picture><br>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172941127-4061fac1-736b-4c24-b7ea-c210b3578cc5.png">
+    <img width="50%" src="https://user-images.githubusercontent.com/65187002/172941149-31258408-bfc3-496a-8a58-e34794b21813.png">
+  </picture>
+</div>
+
+<br>
+
+# 🏅 Displaying Achievements 🏅
+
+<br>
+
+# 📃 Achievement List 📃
+<br>
+
+ <div align="center" style="display:flex; flex-wrap:wrap justify-content:center; align-items: center; width:80%; margin:auto;"> 
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png"/>
+     <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"/>
+     <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"/>
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png"/>
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png"/>
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png"/>
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png"/>
+<!-- ![Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) -->
+     </div> 
+<br>
+<!-- ![Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) -->
+<br>
+<!-- ![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) -->
+<br>
+<!-- ![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)  -->
+<br>
+<!-- ![Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) -->
+<br>
+<!-- ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) -->
+<br>
+<!-- ![Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) -->
+<br>
+<!-- ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) -->
+<br>
+<!-- ![Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) -->
+     
+<br>
+
+
+<br>
 
 
 
