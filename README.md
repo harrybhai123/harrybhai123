@@ -18,7 +18,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/ios/50/null/sass.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://www.w3schools.com/REACT/" target="_blank"> <img src="https://img.icons8.com/office/16/null/react.png"/> </a>
+    <a href="https://www.w3schools.com/REACT/" target="_blank"> <img src="https://img.icons8.com/officel/16/null/react.png"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/null/tailwind_css.png"/> </a>
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/bootstrap.png"/> </a>
     <a href="https://git-scm.com/doc" target="_blank"> <img src="https://img.icons8.com/color/48/null/git.png"/> </a>
