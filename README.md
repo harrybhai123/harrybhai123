@@ -59,6 +59,8 @@
 
 
  <a href="https://github.com/harrybhai123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harrybhai123&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hariom Tomar's github stats" /></a> 
+ <br/>
+ <br/>
  <a href="https://github.com/harrybhai123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrybhai123&layout=compact&theme=buefy&hide_border=true" /></a>
 
 
