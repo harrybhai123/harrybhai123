@@ -41,7 +41,8 @@
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
+<br></br>
+<br></br>
 <!-- Begin Stats Cards -->
 <div class="stats" align="center">
 
@@ -52,13 +53,24 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrybhai123&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 
+<br></br>
+<br></br>
+<img src="https://github-profile-trophy.vercel.app/?username=harrybhai123&theme=algolia" align="center" alt="harrybhai123" width="100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrybhai123&theme=2077" width="100%" />
+<hr/>
+<a href="https://github.com/harrybhai123/github-readme-activity-graph"><img alt="harrybhai123 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harrybhai123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area_color=39d5e3&area=true" /></a>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+ </p>
+<br></br>
+<br></br>
 <!--  End Stats Cards -->
 
 
 
 # 🏆 GitHub Achievements 🏆
 
-<br>
+<br></br>
 
 <div align="center">
   <picture>
