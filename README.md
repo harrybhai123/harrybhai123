@@ -39,7 +39,7 @@
 - And of course GitHub you're already on (Recursion).
 
 
-## ❤ Views and Followers
+## ❤ Views
 <a href="https://github.com/harrybhai123/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=harrybhai123">
 </a>
