@@ -67,60 +67,7 @@
 <!--  End Stats Cards -->
 
 
-
-# 🏆 GitHub Achievements 🏆
-
-<br></br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172940015-d9d072e7-c47d-4ddd-83f6-8e7717a721b8.png">
-    <img src="https://user-images.githubusercontent.com/65187002/172940773-7ef23b63-3356-4634-9e52-34f2676e2854.png">
-  </picture><br>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172941127-4061fac1-736b-4c24-b7ea-c210b3578cc5.png">
-    <img width="50%" src="https://user-images.githubusercontent.com/65187002/172941149-31258408-bfc3-496a-8a58-e34794b21813.png">
-  </picture>
-</div>
-
-<br>
-
-# 🏅 Displaying Achievements 🏅
-<br/>
-
- <div align="center" style="display:flex; flex-wrap:wrap justify-content:center; align-items: center; width:80%; margin:auto;"> 
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png"/>
-     <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"/>
-     <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"/>
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png"/>
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png"/>
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png"/>
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png"/>
-<!-- ![Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) -->
-     </div> 
-<br>
-<!-- ![Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) -->
-<br>
-<!-- ![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) -->
-<br>
-<!-- ![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)  -->
-<br>
-<!-- ![Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) -->
-<br>
-<!-- ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) -->
-<br>
-<!-- ![Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) -->
-<br>
-<!-- ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) -->
-<br>
-<!-- ![Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) -->
-     
-<br>
-
-
-<br>
-
-
+![snake gif](https://github.com/harrybhai123/harrybhai123/blob/output/github-contribution-grid-snake.gif)
 
 
 <!--
