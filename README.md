@@ -38,12 +38,20 @@
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/hariomtomar)
 - And of course GitHub you're already on (Recursion).
 
+
+## ❤ Views and Followers
+<a href="https://github.com/harrybhai123/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=harrybhai123">
+</a>
+<a href="https://github.com/harrybhai123?tab=followers"><img src="https://img.shields.io/github/followers/harrybhai123?label=Followers&style=social" alt="GitHub Badge"></a>
+
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
+<!-- Begin Stats Cards -->
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 <br></br>
 <br></br>
-<!-- Begin Stats Cards -->
+
 <div class="stats" align="center">
 
 ![Hariom Tomar GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrybhai123&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
