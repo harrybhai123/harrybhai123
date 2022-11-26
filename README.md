@@ -43,7 +43,7 @@
 <a href="https://github.com/harrybhai123/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=harrybhai123">
 </a>
-<a href="https://github.com/harrybhai123?tab=followers"><img src="https://img.shields.io/github/followers/harrybhai123?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
