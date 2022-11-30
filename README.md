@@ -6,7 +6,7 @@
 
 
 
-## About me
+# About me
 
 - 👋 I'm Hariom Tomar. A Passionate Frontend Developer.
 
