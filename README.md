@@ -43,10 +43,6 @@
 <a href="https://github.com/harrybhai123/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=harrybhai123">
 </a>
-<a href="https://github.com/harrybhai123/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=harrybhai123">
-</a>
-
 
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
