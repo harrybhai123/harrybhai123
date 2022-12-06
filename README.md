@@ -26,7 +26,7 @@
     </div> 
 
 
-Things I am passionate about
+## Things I am passionate about
 
 - Web Development 💻
 - Forntend Development ⚛️
