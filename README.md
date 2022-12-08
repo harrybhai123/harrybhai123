@@ -54,24 +54,24 @@
 <br></br>
 <br></br>
 
-<div class="stats" align="center">
+<!-- <div class="stats" align="center">
 
 ![Hariom Tomar GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrybhai123&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=10)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=harrybhai123&count_private=true&theme=algolia&border_radius=10)
     
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrybhai123&layout=compact&show_icons=true&theme=algolia&border_radius=10)
-</div>
+</div> -->
 
 <br></br>
 <br></br>
-<img src="https://github-profile-trophy.vercel.app/?username=harrybhai123&theme=algolia" align="center" alt="harrybhai123" width="100%" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=harrybhai123&theme=algolia" align="center" alt="harrybhai123" width="100%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrybhai123&theme=2077" width="100%" />
 <hr/>
 <a href="https://github.com/harrybhai123/github-readme-activity-graph"><img alt="harrybhai123 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harrybhai123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area_color=39d5e3&area=true" /></a>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
- </p>
+ </p> -->
 <br></br>
 <br></br>
 <!--  End Stats Cards -->
