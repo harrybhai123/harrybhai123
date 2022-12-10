@@ -60,7 +60,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=harrybhai123&count_private=true&theme=algolia&border_radius=10)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/username=surajkm24&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harrybhai123&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 <br></br>
