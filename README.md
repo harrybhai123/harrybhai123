@@ -60,7 +60,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=harrybhai123&count_private=true&theme=algolia&border_radius=10)
     
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrybhai123&layout=compact&show_icons=true&theme=algolia&border_radius=10)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&show_icons=true&theme=algolia&border_radius=10)
 </div>
 
 <br></br>
