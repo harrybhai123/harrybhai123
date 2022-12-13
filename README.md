@@ -33,12 +33,12 @@
 - Web Development 💻
 - Forntend Development ⚛️
 
-## Get in touch :coffee:
+<!-- ## Get in touch :coffee:
 
 - Your future buddy to discuss Web Development related things and tech in general on [Gmail](hariomtomar25832@gmail.com).
 - Your future life savior :stuck_out_tongue: on [Gmail](hariomtomar25832@gmail.com).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/hariomtomar)
-- And of course GitHub you're already on (Recursion).
+- And of course GitHub you're already on (Recursion). -->
 
 
 ## ❤ Views
