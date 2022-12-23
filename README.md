@@ -31,7 +31,7 @@
 ## Things I am passionate about
 
 - Web Development 💻
-- Forntend Development ⚛️
+<!-- - Forntend Development ⚛️ -->
 
 ## Get in touch :coffee:
 
