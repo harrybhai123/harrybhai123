@@ -1,5 +1,5 @@
 
-
+<p align="center"><a href="https://harrybhai123.github.io"><img width="80%" alt="Hello, I'm Hariom Tomar. I do Front-end Web Development!" src="https://static.wixstatic.com/media/fcf9f1_183add7b26954250a69bc0ac13f8ca50~mv2.gif/v1/fill/w_1600%2Ch_900%2Cal_c%2Cq_90/file.jpg" /></a></p>
 
 
 
