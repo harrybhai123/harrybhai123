@@ -6,7 +6,6 @@
 #  Hi there 👋
 ## I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
-<br>
 
 
 ## About me
