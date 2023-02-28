@@ -27,7 +27,7 @@
     <a href="https://docs.github.com/en/get-started" target="_blank"> <img src="https://img.icons8.com/sf-black/64/undefined/github.png"/> </a>
     </div> 
 
-<br>
+
 
 ## Things I am passionate about
 
