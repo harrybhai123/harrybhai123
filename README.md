@@ -32,7 +32,7 @@
 ## Things I am passionate about
 
 - Web Development 💻
-- Forntend Development ⚛️
+- Frontend Development ⚛️
 
 ## Get in touch :coffee:
 
