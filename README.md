@@ -4,7 +4,7 @@
 
 
 #  Hi there 👋
-## I'm a self-taught passionate FrontEnd developer from India
+## I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 
 
